@@ -1,0 +1,6 @@
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Guinness Book of World Records Trivia\Guinness Book of World Records Trivia\bin\Debug\Guinness Book of World Records Trivia.exe.config
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Guinness Book of World Records Trivia\Guinness Book of World Records Trivia\bin\Debug\Guinness Book of World Records Trivia.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Guinness Book of World Records Trivia\Guinness Book of World Records Trivia\bin\Debug\Guinness Book of World Records Trivia.pdb
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Guinness Book of World Records Trivia\Guinness Book of World Records Trivia\obj\Debug\Guinness Book of World Records Trivia.csprojResolveAssemblyReference.cache
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Guinness Book of World Records Trivia\Guinness Book of World Records Trivia\obj\Debug\Guinness Book of World Records Trivia.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Guinness Book of World Records Trivia\Guinness Book of World Records Trivia\obj\Debug\Guinness Book of World Records Trivia.pdb

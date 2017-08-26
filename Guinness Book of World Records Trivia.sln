@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guinness Book of World Records Trivia", "Guinness Book of World Records Trivia\Guinness Book of World Records Trivia.csproj", "{B9104136-9F29-4A23-8037-87A3B5A9C6A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9104136-9F29-4A23-8037-87A3B5A9C6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9104136-9F29-4A23-8037-87A3B5A9C6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9104136-9F29-4A23-8037-87A3B5A9C6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9104136-9F29-4A23-8037-87A3B5A9C6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
